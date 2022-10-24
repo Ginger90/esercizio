@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+ul li {
+    list-style: none;
+    text-align: left;
+}
